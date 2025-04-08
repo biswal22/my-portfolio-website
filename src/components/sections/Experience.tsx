@@ -7,7 +7,7 @@ const experiences = [
     period: "June 2025",
     description: "Incoming Software Engineering Intern at AT&T in Dallas, TX",
     skills: ["Full Stack", "Machine Learning"],
-    logo: "/src/assets/attlogo.svg.png"
+    logo: "/attlogo.svg.png"
   },
   {
     title: "Machine Learning Intern",
@@ -15,7 +15,7 @@ const experiences = [
     period: "May 2024 - January 2025",
     description: "Developed a NeuralProphet model to predict future energy demand in the Midwest ISO market using historical time series data and weather patterns.",
     skills: ["Python", "Machine Learning", "Data Analysis"],
-    logo: "/src/assets/miso.png"
+    logo: "/miso.png"
   },
   {
     title: "Undergraduate Researcher",
@@ -23,7 +23,7 @@ const experiences = [
     period: "June 2023 - December 2023",
     description: "Recreated neural scene representations and computer image renderings from prior research articles to apply towards autonomous vehicle landscape and trajectory generation.",
     skills: ["Generative Query Network", "PyTorch", "Neural Rendering"],
-    logo: "/src/assets/purdue-boilermakers-8-team-logo-cutout-sign_mainProductImage_Full__81253.jpg"
+    logo: "/purdue-boilermakers-8-team-logo-cutout-sign_mainProductImage_Full__81253.jpg"
   }
   
 ];
