@@ -15,7 +15,7 @@ const experiences = [
     period: "May 2024 - January 2025",
     description: "Developed a NeuralProphet model to predict future energy demand in the Midwest ISO market using historical time series data and weather patterns.",
     skills: ["Python", "Machine Learning", "Data Analysis"],
-    logo: "/miso.png"
+    logo: "/MISO.png"
   },
   {
     title: "Undergraduate Researcher",
