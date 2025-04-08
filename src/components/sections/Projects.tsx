@@ -5,7 +5,7 @@ const projects = [
   {
     title: "SyllabAI",
     description: "SyllabAI is a web application that takes in multiple syllabuses and parses them using the OpenAI API. Users can select which sections of the syllabus they want to include in their final document, and the application will generate a document with the selected sections. Uses Flask to create RESTful API routes to post data to the frontend.",
-    image: "/src/assets/syllablogo.png",
+    image: "/syllablogo.png",
     github: "https://github.com/biswal22/SyllabAI",
     live: "https://syllab-ai.vercel.app",
     tech: ["NextJS", "TailwindCSS", "Typescript", "Flask"],
@@ -23,7 +23,7 @@ const projects = [
   {
     title: "Purdue Robotics Club Website",
     description: "Contributed to comprehensive redesign of Purdue Robotics Club website, using React and HTML/CSS. Created a registration form for club's RISE Expo via a Google Firebase database.",
-    image: "/src/assets/arclogo.png",
+    image: "/arclogo.png",
     live: "https://purduearc.com",
     secondaryLive: "https://rise.purduearc.com",
     tech: ["React", "Firebase", "HTML/CSS", "JavaScript"],
