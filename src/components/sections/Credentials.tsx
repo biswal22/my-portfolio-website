@@ -27,13 +27,13 @@ const certificationsData = [
     title: "Akuna Capital Options 201",
     issuer: "Akuna Capital",
     date: "November 2024",
-    image: "/src/assets/akuna201.png"
+    image: "/akuna201.png"
   },
   {
     title: "Akuna Capital Options 101",
     issuer: "Akuna Capital",
     date: "August 2024",
-    image: "/src/assets/akuna101.png"
+    image: "/akuna101.png"
   }
   // Add more certifications
 ];
