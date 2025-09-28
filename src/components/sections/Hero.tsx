@@ -143,7 +143,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 1.4 }}
         >
-          Hi, I'm Aniket! I'm a junior at Purdue University with a triple major in Computer Science, Data Science, and Mathematics. Use the menu to check out my experiences, projects, and credentials!
+          Hi, I'm Aniket! I'm a senior at Purdue University with a triple major in Computer Science, Data Science, and Mathematics. Use the menu to check out my experiences, projects, and credentials!
         </motion.p>
 
         {/* Social Links */}
