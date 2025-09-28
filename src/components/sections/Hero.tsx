@@ -81,7 +81,7 @@ const Hero = () => {
           <div className="w-52 h-52 mx-auto rounded-full border-4 border-primary overflow-hidden shadow-lg shadow-primary/20">
             {/* Add your image here */}
             <img
-              src="../../assets/headshot.jpeg" // Add your image path here
+              src="/headshot.jpeg" // Add your image path here
               alt="Aniket Biswal"
               className="w-full h-full object-cover"
             />
