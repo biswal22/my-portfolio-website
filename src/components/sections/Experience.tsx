@@ -2,10 +2,10 @@ import TimelineItem from '../ui/TimelineItem';
 
 const experiences = [
   {
-    title: "Incoming Software Engineering Intern",
+    title: "Software Engineering Intern",
     company: "AT&T",
-    period: "June 2025",
-    description: "Incoming Software Engineering Intern at AT&T in Dallas, TX",
+    period: "June 2025 - August 2025",
+    description: "Engineered a LangChain pipeline for a new chatbot system utilizing open source LLM models to replace exisiting token costs. Developed a multi-model quorum framework for hallucination detection of this new chatbot, incorporating prompt engineering and FCS scoring for response validation.",
     skills: ["Full Stack", "Machine Learning"],
     logo: "/src/assets/attlogo.svg.png"
   },

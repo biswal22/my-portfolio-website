@@ -3,7 +3,7 @@ import { FaDownload } from 'react-icons/fa';
 
 const Resume = () => {
   // You can also import the PDF using Vite's import.meta.url
-  const resumePath = '/src/assets/Biswal_Aniket_Resume_.docx.pdf';
+  const resumePath = '/src/assets/Aniket_Biswal.pdf';
 
   return (
     <section id="resume" className="py-20 bg-gray-900">
